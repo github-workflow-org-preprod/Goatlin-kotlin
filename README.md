@@ -9,7 +9,7 @@ This repository contains both the Android mobile application
 (`packages/clients/android`) and the back-end API server
 (`packages/services/api`).
 
-## Requirements
+## Requirements 
 
 To play with the mobile application you should have the following tools:
 
